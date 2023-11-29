@@ -130,6 +130,7 @@
 
 		position: absolute;
 		left: 50%;
+		transform: translateX(-50%);
 		bottom: 40px;
 		color: var(--text-clr);
 		text-align: center;
